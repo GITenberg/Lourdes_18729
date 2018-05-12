@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4052
     wikipedia: http://en.wikipedia.org/wiki/Robert_Hugh_Benson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18729#Lourdes
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2006-07-01'
 gutenberg_type: Text
